@@ -1,0 +1,4 @@
+In python, you can write for loops to repeat code.
+In python, you can write while loops to repeat code until an event is triggered.
+In python, you can code functions that split your programs up into reusable, organized pieces.
+In python, you can use classes and object-oriented programming to model scenarios in the real world.
